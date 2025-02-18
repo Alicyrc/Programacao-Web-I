@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  max-width: 400px;
+  margin: auto;
+  border-radius: 5px;
+  background-color: #ffffff;
+}
+
+body{
+  background-color: #694beed8;
+  padding: 20px;
+}
+
+input {
+  padding: 10px;
+  margin-right: 10px;
+  border-radius: 20px;
+  border-width: 1px;
+  border-color: blue;
+}
+
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: rgb(71, 68, 245);
+  border-radius: 20px;
+  border-width: 1px;
+  border-color: blue;
+  color: #fff;
+}
+
+button:hover{
+  background-color: lightblue;
+  color: black;
+}
